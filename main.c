@@ -17,4 +17,9 @@ Feature2
   //Sample Code for Feature2
 }
 
+SecurityPatch()
+{
+ //Sample Code for Security Patch
+}
+
 }
