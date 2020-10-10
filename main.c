@@ -12,4 +12,9 @@ Feature1()
 }
 
 
+Feature2
+{
+  //Sample Code for Feature2
+}
+
 }
